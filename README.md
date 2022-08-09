@@ -22,7 +22,8 @@ http://www.jbth.com.br/index.php/JBTH/article/view/210
 - 💬 Ask me about **AI, GPU and Technology**
 
 - 📫 How to reach me 
-**filipemilani@outlook.com** 
+**filipemilani@outlook.com**
+
 **filipe.souza@fieb.org.br**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/filipemilanidesouza/](https://www.linkedin.com/in/filipemilanidesouza/)
