@@ -11,6 +11,12 @@
 
 - 📝 I regularly write articles on [https://aiperspectives.springeropen.com/articles/10.1186/s42467-021-00011-0?fbclid=IwAR0SymEbT1egNfdMs-qVZhlS1-5ZP74oOGLj9sHDPcDhYOjvZyVAffZUKRk](https://aiperspectives.springeropen.com/articles/10.1186/s42467-021-00011-0?fbclid=IwAR0SymEbT1egNfdMs-qVZhlS1-5ZP74oOGLj9sHDPcDhYOjvZyVAffZUKRk)
 
+https://link.springer.com/article/10.1007/s00024-022-03114-9
+
+http://www.jbth.com.br/index.php/JBTH/article/view/211
+
+http://www.jbth.com.br/index.php/JBTH/article/view/210
+
 - 💬 Ask me about **AI, GPU and Technology**
 
 - 📫 How to reach me **filipemilani@outlook.com**
