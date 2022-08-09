@@ -9,7 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science and AI**
 
-- 📝 I regularly write articles on [https://aiperspectives.springeropen.com/articles/10.1186/s42467-021-00011-0?fbclid=IwAR0SymEbT1egNfdMs-qVZhlS1-5ZP74oOGLj9sHDPcDhYOjvZyVAffZUKRk](https://aiperspectives.springeropen.com/articles/10.1186/s42467-021-00011-0?fbclid=IwAR0SymEbT1egNfdMs-qVZhlS1-5ZP74oOGLj9sHDPcDhYOjvZyVAffZUKRk)
+- 📝 I regularly write articles on 
+ 
+https://aiperspectives.springeropen.com/articles/10.1186/s42467-021-00011-0?fbclid=IwAR0SymEbT1egNfdMs-qVZhlS1-5ZP74oOGLj9sHDPcDhYOjvZyVAffZUKRk
 
 https://link.springer.com/article/10.1007/s00024-022-03114-9
 
