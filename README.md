@@ -27,7 +27,7 @@ http://www.jbth.com.br/index.php/JBTH/article/view/210
 
 **filipe.souza@fieb.org.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/filipemilanidesouza/](https://www.linkedin.com/in/filipemilanidesouza/)
+- 📄 Know about my experiences https://www.linkedin.com/in/filipemilanidesouza/](https://www.linkedin.com/in/filipemilanidesouza/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
