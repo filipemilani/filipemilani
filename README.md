@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipemilani&label=Profile%20views&color=0e75b6&style=flat" alt="filipemilani" /> </p>
 
-- 🔭 I’m currently working on [CIMATEC](http://www.senaicimatec.com.br/en/)
+- 🔭 I’m currently working on [Embraer](https://embraer.com/br/pt)
 
-- 🌱 I’m currently learning **Computational Modeling and Geoprocessing**
+- 🌱 I’m currently learning **Computational Modeling and HPC**
 
 - 🔭 I’m looking to collaborate on **Data Science and AI**
 
@@ -19,13 +19,13 @@ http://www.jbth.com.br/index.php/JBTH/article/view/211
 
 http://www.jbth.com.br/index.php/JBTH/article/view/210
 
-- 💬 Ask me about **AI, GPU and Technology**
+- 💬 Ask me about **AI, HPC, GPU and Technology**
 
 - 📫 How to reach me 
 
 **filipemilani@outlook.com**
 
-**filipe.souza@fieb.org.br**
+**filipe.milani@embraer.com.br**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/filipemilanidesouza/
 
