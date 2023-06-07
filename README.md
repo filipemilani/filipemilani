@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe Milani de Souza</h1>
-<h3 align="center">Information Technology, Data Scientist, Artificial Intelligence Researcher and GPU Programmer</h3>
+<h3 align="center">HPC, Information Technology, Data Scientist, Artificial Intelligence Researcher and GPU Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipemilani&label=Profile%20views&color=0e75b6&style=flat" alt="filipemilani" /> </p>
 
