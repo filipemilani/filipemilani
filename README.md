@@ -19,6 +19,8 @@ http://www.jbth.com.br/index.php/JBTH/article/view/211
 
 http://www.jbth.com.br/index.php/JBTH/article/view/210
 
+https://www.proceedings.blucher.com.br/article-details/feasibility-analysis-on-the-construction-of-a-solution-for-monitoring-and-hydrometeorological-forecasting-35659
+
 - 💬 Ask me about **AI, HPC, GPU and Technology**
 
 - 📫 How to reach me 
