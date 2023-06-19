@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Embraer](https://embraer.com/br/pt)
 
-- 🌱 I’m currently learning **Computational Modeling and HPC**
+- 🌱 I’m currently learning **Computational Modeling**
 
 - 🔭 I’m looking to collaborate on **Data Science and AI**
 
-- 📝 I regularly write articles on 
+- 📝 Published Articles: 
  
 https://aiperspectives.springeropen.com/articles/10.1186/s42467-021-00011-0?fbclid=IwAR0SymEbT1egNfdMs-qVZhlS1-5ZP74oOGLj9sHDPcDhYOjvZyVAffZUKRk
 
