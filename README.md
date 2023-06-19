@@ -29,8 +29,6 @@ https://www.proceedings.blucher.com.br/article-details/feasibility-analysis-on-t
 
 **filipe.milani@embraer.com.br**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/filipemilanidesouza/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/filipemilanidesouza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filipemilanidesouza/" height="30" width="40" /></a>
