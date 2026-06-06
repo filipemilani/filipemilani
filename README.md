@@ -23,11 +23,6 @@ https://www.proceedings.blucher.com.br/article-details/feasibility-analysis-on-t
 
 - 💬 Ask me about **AI, HPC, GPU and Technology**
 
-- 📫 How to reach me 
-
-**filipemilani@outlook.com**
-
-**filipe.milani@embraer.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
